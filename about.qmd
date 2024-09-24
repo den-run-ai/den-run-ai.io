@@ -1,0 +1,19 @@
+---
+title: "About Denis A."
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/den-run-ai
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/den-run-ai/
+    - icon: github
+      text: Github
+      href: https://github.com/den-run-ai
+
+---
+
+About this blog

@@ -1,0 +1,14 @@
+---
+title: "Math, Code, AI, Chess, and Sports"
+author: "Denis A."
+date: "2024-09-24"
+categories: [news]
+---
+
+Welcome to the posts by **den-run-ai** about:
+
+## Math 📐 | Code 👨‍💻 | AI 🧠 | Chess ♔ | Sports 🏃‍♂️
+
+![](truck.jpeg)
+
+Guess the year and where is this picture from?
