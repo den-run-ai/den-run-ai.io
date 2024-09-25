@@ -1,5 +1,5 @@
 ---
-title: "den-run-ai blog"
+title: "den-run-ai blog: Math, Code, AI, Chess, and Sports"
 listing:
   contents: posts
   sort: "date desc"

@@ -8,9 +8,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/den-run-ai
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/den-run-ai
 format:
   html:
     theme: cosmo
