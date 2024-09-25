@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
+title: "OpenAI O1-mini AI Solving an Integer Equation"
 author: "Denis Akhiyarov + AI"
 date: "2024-09-24"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "diophantine.png"
 ---
 
 This is a post about non-trivial **math** problem solved using **OpenAI O1-mini**.
